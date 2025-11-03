@@ -1,0 +1,101 @@
+account_id,company_name,industry,organization_type,region,country,employee_count_range,created_at
+1,"Rodriguez, Figueroa and Sanchez",agriculture,university,South America,Burundi,11-50,2020-11-14 10:35:38
+2,"Yang, Gardner and Garza",pharma,biotech,Asia,Antigua and Barbuda,201-1000,2020-04-02 13:50:30
+3,Robinson PLC,academic,biotech,South America,Netherlands,201-1000,2020-03-23 10:39:55
+4,"Gonzalez, Santos and Gardner",agriculture,university,North America,Cyprus,201-1000,2023-10-27 15:27:14
+5,"Ramirez, Booth and Blake",agriculture,hospital,South America,Cayman Islands,201-1000,2023-08-06 00:24:49
+6,Ramirez-Lewis,academic,hospital,South America,Serbia,11-50,2022-11-11 18:18:31
+7,Davis Inc,diagnostics,biotech,Asia,Guinea-Bissau,1-10,2022-12-04 15:11:51
+8,"Baker, Williams and Stevens",diagnostics,hospital,North America,British Virgin Islands,1-10,2023-03-22 01:34:09
+9,Arnold Ltd,diagnostics,university,South America,Niger,51-200,2023-01-28 13:27:43
+10,"Lee, Jones and Stanley",pharma,biotech,South America,Sierra Leone,51-200,2022-06-18 02:19:48
+11,Wyatt Inc,academic,hospital,North America,Hong Kong,201-1000,2022-05-13 15:12:51
+12,Reid-Diaz,academic,university,North America,Heard Island and McDonald Islands,1-10,2023-01-08 18:54:13
+13,Santiago Ltd,agriculture,biotech,Europe,Vietnam,11-50,2025-10-24 17:00:29
+14,"Jones, Reid and Ferguson",diagnostics,cro,South America,Ecuador,51-200,2021-05-22 16:10:22
+15,Gray-Mayo,agriculture,biotech,South America,Northern Mariana Islands,51-200,2024-09-26 09:10:59
+16,Cohen Inc,diagnostics,cro,Asia,Denmark,51-200,2020-04-09 17:34:02
+17,Morales-Jones,agriculture,hospital,Europe,United States Minor Outlying Islands,201-1000,2024-10-28 04:00:35
+18,"Edwards, Rios and Foster",diagnostics,cro,Europe,United States Virgin Islands,201-1000,2025-06-20 06:30:35
+19,Thomas-Taylor,pharma,biotech,South America,Samoa,51-200,2024-10-10 02:38:31
+20,"Baker, Richards and Hurst",agriculture,biotech,North America,Iran,1-10,2023-01-29 16:24:41
+21,Osborn and Sons,pharma,university,South America,Malawi,201-1000,2024-03-13 07:12:29
+22,Campos Inc,academic,biotech,South America,Cape Verde,1-10,2025-05-03 09:46:04
+23,Conner Group,academic,university,South America,Nepal,201-1000,2020-07-16 08:58:09
+24,James-Ferrell,pharma,hospital,Asia,Marshall Islands,201-1000,2022-02-20 02:47:42
+25,"Valencia, Smith and Le",agriculture,university,North America,Pitcairn Islands,201-1000,2024-07-26 07:24:35
+26,Mack-Peterson,agriculture,cro,Europe,French Polynesia,11-50,2023-09-12 18:26:49
+27,Chavez Ltd,pharma,cro,Europe,Turkey,1-10,2022-03-29 07:42:38
+28,"Gill, Romero and Rodriguez",diagnostics,biotech,Asia,Niue,201-1000,2022-07-16 05:39:22
+29,"Romero, Gonzalez and Brooks",academic,biotech,South America,Central African Republic,51-200,2024-08-02 19:00:54
+30,"Sellers, George and Burns",agriculture,university,South America,Bouvet Island (Bouvetoya),11-50,2023-02-01 17:48:27
+31,Allen-Allen,diagnostics,hospital,Europe,Montenegro,201-1000,2020-09-01 16:33:04
+32,Dennis Inc,agriculture,cro,South America,Senegal,11-50,2024-07-13 01:27:02
+33,Anderson Group,academic,cro,South America,Yemen,1-10,2024-09-04 04:19:39
+34,Baker PLC,agriculture,university,Europe,Jamaica,1-10,2021-10-20 00:49:06
+35,"Campos, Vaughn and Marquez",academic,university,Asia,Iran,201-1000,2025-09-17 20:36:35
+36,"Brooks, Lam and Hayes",pharma,university,Asia,Egypt,51-200,2021-11-29 02:38:52
+37,Morgan PLC,academic,biotech,North America,Micronesia,11-50,2021-12-15 22:35:53
+38,"Robinson, Jones and Welch",pharma,university,Asia,Denmark,51-200,2020-07-28 09:43:56
+39,Heath Inc,agriculture,cro,Europe,Malaysia,51-200,2022-01-09 10:54:42
+40,Caldwell-Lewis,agriculture,biotech,Asia,Bulgaria,1-10,2024-11-09 04:03:33
+41,"Kennedy, Mueller and Aguirre",diagnostics,university,South America,Comoros,51-200,2020-10-20 01:26:29
+42,Hopkins LLC,diagnostics,hospital,South America,Jamaica,1-10,2023-07-01 06:00:27
+43,Shields-Brown,diagnostics,biotech,South America,Palau,51-200,2025-06-30 14:39:16
+44,Brown Ltd,agriculture,cro,Asia,Guadeloupe,201-1000,2020-12-05 11:41:22
+45,Lee PLC,diagnostics,university,Europe,Kiribati,11-50,2021-03-11 12:44:59
+46,White-Ford,pharma,university,Europe,Tunisia,51-200,2020-08-22 05:06:17
+47,Morton-Chase,agriculture,hospital,North America,Bolivia,51-200,2020-06-06 04:08:21
+48,"Kidd, Huff and Novak",agriculture,university,Europe,Vanuatu,51-200,2022-01-04 09:43:56
+49,Russell Group,agriculture,cro,South America,Croatia,51-200,2023-05-30 23:43:52
+50,Martin Inc,agriculture,hospital,Asia,Iceland,201-1000,2022-04-03 22:58:23
+51,Mitchell-Horton,agriculture,university,Asia,Saint Martin,201-1000,2024-09-22 17:05:23
+52,"Higgins, Moore and Phillips",academic,university,North America,Azerbaijan,11-50,2024-12-04 10:48:44
+53,"Daniels, Adkins and Brown",diagnostics,hospital,Europe,Myanmar,51-200,2024-01-21 07:55:42
+54,"Calhoun, Schmidt and Brown",agriculture,university,Asia,Malawi,201-1000,2020-09-05 21:32:37
+55,Jones Inc,agriculture,university,South America,Peru,201-1000,2021-12-31 18:04:25
+56,Wilson-Zamora,academic,biotech,South America,Egypt,201-1000,2024-12-03 15:20:00
+57,"Williams, Miller and Sandoval",diagnostics,hospital,South America,Mongolia,1-10,2024-06-12 05:30:17
+58,Donovan-Harris,pharma,cro,South America,Saint Barthelemy,201-1000,2022-09-03 03:14:49
+59,Baker and Sons,academic,cro,North America,Paraguay,1-10,2025-06-28 12:01:38
+60,Bryant-Hickman,agriculture,cro,Asia,Vietnam,1-10,2020-08-13 09:12:24
+61,Ellis PLC,agriculture,hospital,Asia,Bolivia,51-200,2020-08-15 14:42:54
+62,"Lewis, Baker and Mahoney",academic,hospital,South America,Turkmenistan,51-200,2020-08-01 17:27:06
+63,Wood and Sons,agriculture,cro,Asia,Kazakhstan,51-200,2024-08-14 17:16:00
+64,"Turner, Riggs and Roman",diagnostics,cro,Asia,Marshall Islands,1-10,2020-01-25 07:19:59
+65,"Montoya, Evans and Alvarado",agriculture,cro,Asia,Wallis and Futuna,11-50,2021-02-21 05:28:16
+66,Wilson-Rodriguez,academic,hospital,North America,Micronesia,11-50,2021-04-27 23:02:10
+67,Campbell-Clark,diagnostics,hospital,North America,Guam,201-1000,2021-09-24 13:18:56
+68,"Walters, Baker and Freeman",diagnostics,university,Europe,United Kingdom,51-200,2020-06-06 19:50:24
+69,Walters LLC,pharma,cro,Asia,Aruba,51-200,2020-01-12 00:23:08
+70,Wise-Walsh,diagnostics,cro,Europe,Estonia,201-1000,2021-05-17 00:25:31
+71,"Ramos, Thornton and Hoffman",academic,hospital,Asia,Bouvet Island (Bouvetoya),11-50,2020-08-21 18:35:18
+72,"Mckee, Gardner and Davenport",diagnostics,biotech,South America,Myanmar,11-50,2024-09-12 15:15:26
+73,Jordan Inc,agriculture,hospital,North America,Gambia,1-10,2023-02-06 22:23:14
+74,Nolan and Sons,pharma,university,Asia,Pitcairn Islands,1-10,2022-02-14 06:17:08
+75,"Garcia, Deleon and Henson",diagnostics,hospital,North America,Ireland,51-200,2025-04-12 07:52:34
+76,"Moore, Spears and Hancock",academic,university,North America,South Georgia and the South Sandwich Islands,1-10,2021-07-04 01:58:53
+77,Johnson-Doyle,pharma,cro,Europe,Grenada,1-10,2023-07-03 03:33:30
+78,"Shields, Cochran and Adams",pharma,biotech,South America,Solomon Islands,51-200,2020-12-01 20:11:38
+79,Brennan-Garrison,diagnostics,hospital,Asia,Cyprus,1-10,2021-09-12 01:13:43
+80,Bailey-Hoover,agriculture,biotech,South America,Tunisia,51-200,2021-12-08 02:44:59
+81,Johnson and Sons,pharma,hospital,South America,Iran,1-10,2022-10-16 20:59:06
+82,Lin-Rasmussen,academic,hospital,Europe,Fiji,51-200,2022-12-26 23:21:11
+83,"Hicks, Frazier and Anthony",academic,university,South America,Greenland,11-50,2020-03-26 18:02:43
+84,Wiley LLC,academic,cro,Europe,Christmas Island,201-1000,2024-12-08 19:54:29
+85,Johnson-Carlson,agriculture,hospital,South America,Guatemala,11-50,2022-09-01 13:28:33
+86,Obrien-Dixon,diagnostics,university,South America,Hungary,51-200,2024-11-26 09:31:14
+87,Scott Ltd,pharma,university,South America,Jordan,1-10,2020-01-06 06:06:38
+88,"Frost, Ryan and Ball",academic,biotech,Europe,Saint Vincent and the Grenadines,51-200,2025-09-14 13:41:08
+89,Diaz Inc,academic,cro,Europe,Yemen,51-200,2025-08-25 17:09:05
+90,Hanson-Alvarado,agriculture,cro,Asia,British Virgin Islands,1-10,2022-07-22 01:39:05
+91,"Parker, Ortiz and Powell",pharma,biotech,Europe,French Polynesia,201-1000,2024-09-18 11:59:27
+92,Lee Ltd,pharma,biotech,South America,Wallis and Futuna,201-1000,2023-03-23 23:07:15
+93,"Adkins, Thompson and Carroll",pharma,hospital,Europe,Iraq,1-10,2024-08-29 09:09:34
+94,Torres and Sons,pharma,cro,South America,Jersey,1-10,2024-12-06 22:47:58
+95,"Pena, Marshall and Ramos",diagnostics,biotech,Europe,Croatia,1-10,2024-05-07 03:53:44
+96,Leon-Moyer,agriculture,hospital,Asia,Saint Pierre and Miquelon,201-1000,2021-06-11 05:06:26
+97,"Miller, Robertson and Schultz",diagnostics,biotech,Asia,Grenada,201-1000,2020-10-17 03:27:14
+98,Chambers and Sons,pharma,hospital,Asia,Sri Lanka,11-50,2021-09-10 16:12:14
+99,Johnson and Sons,academic,university,South America,Lebanon,201-1000,2025-03-14 03:53:27
+100,Gibson Ltd,academic,hospital,Europe,Morocco,11-50,2021-08-27 02:08:30
