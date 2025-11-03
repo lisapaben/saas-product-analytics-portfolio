@@ -1,0 +1,6 @@
+feature_id,feature_name,product_area,complexity,created_at
+1,Alignment Tool,integration,2,2025-11-03 12:55:56.990739
+2,Variant Caller,analysis,5,2025-11-03 12:55:56.990739
+3,Genome Browser,analysis,4,2025-11-03 12:55:56.990739
+4,Report Generator,analysis,3,2025-11-03 12:55:56.990739
+5,API Access,analysis,5,2025-11-03 12:55:56.990739
