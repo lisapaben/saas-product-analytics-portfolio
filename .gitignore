@@ -205,3 +205,41 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Database files
+*.db
+*.sqlite
+*.duckdb
+
+# Data files (keep data/ folder structure but not large files)
+data/*.csv
+data/*.parquet
+data/*.json
+
+# Keep data folder structure
+!data/.gitkeep
+
+# Environment files
+.env
+.env.local
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Tableau files (too large for Git)
+*.twbx
+*.hyper
+
+# Model artifacts (can be large)
+models/*.pkl
+models/*.joblib
+
+# Keep folders but ignore contents
+!models/.gitkeep
+!data/.gitkeep
